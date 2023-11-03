@@ -37,7 +37,7 @@ int main(void) {
     for (;;) {
         if(p == 'x') {
             return 0;
-        } else {
+        } else if(p == 'i') {
             setSemV();
             setSemP();
         }
