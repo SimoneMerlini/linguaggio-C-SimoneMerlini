@@ -9,7 +9,7 @@ void setSemV() {
     printf("⚪ 🟠 ⚪");
     sleep(15);
     printf("🔴 ⚪ ⚪");
-    sleep(5)
+    sleep(5);
 }
 void setSemP() {
     printf("🔴 ⚪");
