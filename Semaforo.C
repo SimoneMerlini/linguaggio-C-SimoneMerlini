@@ -37,7 +37,7 @@ int main(void) {
     char p = getchar();
         if(p == 'x') {
             return 0;
-        } else if(p == 'i') {
+        } else {
             setSemV();
             setSemP();
         }
