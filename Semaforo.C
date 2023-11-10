@@ -33,8 +33,8 @@ void setSemP() {
 }
     
 int main(void) {
-    char p = getchar();
     for (;;) {
+    char p = getchar();
         if(p == 'x') {
             return 0;
         } else if(p == 'i') {
