@@ -5,31 +5,31 @@
 
 void setSemV() {
     sleep(0);
-    printf("⚪ ⚪ 🟢/n");
+    printf("⚪ ⚪ 🟢\n");
     sleep(5);
-    printf("⚪ 🟠 ⚪/n");
+    printf("⚪ 🟠 ⚪\n");
     sleep(15);
-    printf("🔴 ⚪ ⚪/n");
+    printf("🔴 ⚪ ⚪\n");
     sleep(5);
 }
 void setSemP() {
-    printf("🔴 ⚪/n");
+    printf("🔴 ⚪\n");
     sleep(5);
-    printf("⚪ 🟢/n");
+    printf("⚪ 🟢\n");
     sleep(30);
-    printf("⚪ ⚪/n");
+    printf("⚪ ⚪\n");
     sleep(2);
-    printf("⚪ 🟢/n");
+    printf("⚪ 🟢\n");
     sleep(2);
-    printf("⚪ ⚪/n");
+    printf("⚪ ⚪\n");
     sleep(2);
-    printf("⚪ 🟢/n");
+    printf("⚪ 🟢\n");
     sleep(2);
-    printf("⚪ ⚪/n");
+    printf("⚪ ⚪\n");
     sleep(2);
-    printf("🔴 ⚪/n");
+    printf("🔴 ⚪\n");
     sleep(5);
-     printf("⚪ ⚪ 🟢/n");
+     printf("⚪ ⚪ 🟢\n");
     sleep(25);
 }
     
