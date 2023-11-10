@@ -4,31 +4,32 @@
 //Questo blocco di codice descrive il funzionamento di un semaforo.
 
 void setSemV() {
-    printf("⚪ ⚪ 🟢");
+    sleep(0);
+    printf("⚪ ⚪ 🟢/n");
     sleep(5);
-    printf("⚪ 🟠 ⚪");
+    printf("⚪ 🟠 ⚪/n");
     sleep(15);
-    printf("🔴 ⚪ ⚪");
+    printf("🔴 ⚪ ⚪/n");
     sleep(5);
 }
 void setSemP() {
-    printf("🔴 ⚪");
+    printf("🔴 ⚪/n");
     sleep(5);
-    printf("⚪ 🟢");
+    printf("⚪ 🟢/n");
     sleep(30);
-    printf("⚪ ⚪");
+    printf("⚪ ⚪/n");
     sleep(2);
-    printf("⚪ 🟢");
+    printf("⚪ 🟢/n");
     sleep(2);
-    printf("⚪ ⚪");
+    printf("⚪ ⚪/n");
     sleep(2);
-    printf("⚪ 🟢");
+    printf("⚪ 🟢/n");
     sleep(2);
-    printf("⚪ ⚪");
+    printf("⚪ ⚪/n");
     sleep(2);
-    printf("🔴 ⚪");
+    printf("🔴 ⚪/n");
     sleep(5);
-     printf("⚪ ⚪ 🟢");
+     printf("⚪ ⚪ 🟢/n");
     sleep(25);
 }
     
